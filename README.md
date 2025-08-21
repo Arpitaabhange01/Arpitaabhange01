@@ -104,15 +104,15 @@
 
 ---
 <p align="center">
-    <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://https://github.com/arpitaabhange01/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpita Abhange streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitaabhange01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
    <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Arpita Abhange Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitaabhange01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/arpitaabhange01/github-readme-stats"><img alt="Arpita Abhange Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitaabhange01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
 ## 📈 Graph
@@ -121,7 +121,7 @@
 </p>
 
 ## ⌛ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrinceSinghhub&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
+![](https://github-profile-trophy.vercel.app/?username=arpitaabhange01&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 ---
 
