@@ -18,7 +18,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
-## ❤️ I'm Code on (DSA)
+# I Code on (DSA)
 
 <p align="left"> 
 <img src="lc.png" height="40px" width="40px">
