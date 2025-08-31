@@ -97,7 +97,6 @@
     <td align="center" width="90"><img src="https://img.shields.io/badge/prometheus-red" width="55" height="55" /><br>Prometheus</td>
             </tr>
 </table>
-
 ---
 <p align="center">
     <a href="https://https://github.com/arpitaabhange01/github-readme-streak-stats">
