@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Arpita Abhange</b></h1>
 
-<p align="center"><b>Passionate Coder |Java | Python | DSA | AI&ML Enthausiast | Digital Marketing | Problem Solving Enthusiast 🧠 |</b> 
+<p align="center"><b>Passionate Coder | Java | Python | DSA | AI&ML Enthausiast | Digital Marketing | Problem Solver |</b> 
 </b></p>
 
 <p align="center">  
