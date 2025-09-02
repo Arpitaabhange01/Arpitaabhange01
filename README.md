@@ -115,7 +115,7 @@
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-## ⌛ GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arpitaabhange01&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 ---
